@@ -24,8 +24,8 @@ bundle install
 ## Information
 
 Screenshots of your application below:
-![Screenshot 1](https://github.com/nglasgow/Favorite_Questions/blob/master/Screenshots/SS1.png)
-![Screenshot 2](https://github.com/nglasgow/Favorite_Questions/blob/master/Screenshots/SS2.png)
+![Screenshot 1](https://raw.github.com/nglasgow/Favorite_Questions/master/Screenshots/SS1.png)
+![Screenshot 2](https://raw.github.com/nglasgow/Favorite_Questions/master/Screenshots/SS2.png)
 
 ## Authors
 
