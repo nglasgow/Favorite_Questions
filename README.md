@@ -4,7 +4,7 @@ By Nicole Glasgow
 
 ## Description
 
-*Favorites* application allows you to compile all your questions and come back to later update or add the answers. Other users also have the ability to answer your questions.
+**Favorites** application allows you to compile all your questions and come back to later update or add the answers. Other users also have the ability to answer your questions.
 
 ## Installation
 
@@ -24,8 +24,8 @@ bundle install
 ## Information
 
 Screenshots of your application below:
-![Screenshot 1](nicoleglasgow/favorites/screenshoots/ss1.png)
-![Screenshot 2](nicoleglasgow/favorites/screenshots/ss2.png)
+![Screenshot 1](https://github.com/nglasgow/Favorite_Questions/blob/master/Screenshots/SS1.png)
+![Screenshot 2](https://github.com/nglasgow/Favorite_Questions/blob/master/Screenshots/SS2.png)
 
 ## Authors
 
