@@ -1,0 +1,5 @@
+es:
+  questions:
+    index:
+      title: "Lista de preguntas"
+      description: "Si no sabe la respuesta a su pregunta, escriba en nuestro sitio y volver más tarde para responder y tener en sus archivos."

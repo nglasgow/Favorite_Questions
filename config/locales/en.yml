@@ -2,4 +2,8 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  hello: "Hello world"
+  questions:
+    index:
+      title: "Listing Questions"
+      description: "Don't have time to get an answer to your question? Enter it here and then come back to it when you have time to research and update your question with the answer."
+

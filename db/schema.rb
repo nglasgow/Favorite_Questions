@@ -11,7 +11,19 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130715233420) do
+ActiveRecord::Schema.define(:version => 20130828004917) do
+
+  create_table "question_translations", :force => true do |t|
+    t.integer  "question_id"
+    t.string   "locale"
+    t.string   "title"
+    t.text     "answer"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+  end
+
+  add_index "question_translations", ["locale"], :name => "index_question_translations_on_locale"
+  add_index "question_translations", ["question_id"], :name => "index_question_translations_on_question_id"
 
   create_table "questions", :force => true do |t|
     t.string   "title"

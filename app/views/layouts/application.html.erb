@@ -6,9 +6,16 @@
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+  <body>
+    <div id="container">
+      <div id="nav">
+        Language:
+        <%= link_to_unless_current "English", locale: "en" %> |
+        <%= link_to_unless_current "Español", locale: "es" %>
+      </div>
+    </div>
 
-<%= yield %>
+  <%= yield %>
 
-</body>
+  </body>
 </html>
